@@ -11,7 +11,7 @@ This repository contains proof of participation in the Spokane Cyber Cup event t
 
 ### List of CTF Challenges
 Creator of the Spokane Cyber Cup, Maxwell Dulin, posted the challenges in a GitHub repository [(List of Challenges)](https://github.com/mdulin2/SC7) <br>
-He also provided the Challenge Solutions Guide after the event had ended [(Solutions Guide)](/Spokane%20Cyber%20Cup%20VII%20Solution%20Guide.pdf)
+He also provided the Challenge Solutions Guide after the event had ended [(Solutions Guide)](https://docs.google.com/document/d/1iCONUmcAMksf3odh446OzuGsh39JkbGRqKbtsNmVIoM/edit?tab=t.0)
 
 ## My Personal Challenge Solves and Total Points
 ![My Username And Team Placement](screenshots/MyUsernameAndTeamPlacement.png) <br><br>
