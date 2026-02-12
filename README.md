@@ -14,6 +14,8 @@ Creator of the Spokane Cyber Cup, Maxwell Dulin, posted the challenges in a GitH
 He also provided the Challenge Solutions Guide after the event had ended [(Solutions Guide)](https://docs.google.com/document/d/1iCONUmcAMksf3odh446OzuGsh39JkbGRqKbtsNmVIoM/edit?tab=t.0)
 
 ## My Personal Challenge Solves and Total Points
+I was able to solve a total of **27** total challenges, amounting to a total of **9787** points for my team (**92.8%** of total team points). <br><br>
+Below are relevant screenshots showing my teams total points, my total points, and my solved challenges: <br><br>
 ![My Username And Team Placement](screenshots/MyUsernameAndTeamPlacement.png) <br><br>
 ![Team Individual Point Breakdown](screenshots/TeamIndividualPointBreakdown.png) <br><br>
 ![My Solves Part 2](screenshots/MySolvesPart2.png) <br>
