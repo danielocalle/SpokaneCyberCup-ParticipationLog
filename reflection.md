@@ -11,7 +11,7 @@ The expectations for the Spokane Cyber Cup were to use a variety of methods to c
 Throughout the competition, I made several technical decisions to help me succeed in learning, but also in successfully completing the challenges. One piece of advice given by the organizers, was to start with some of the tiered challenges. There were a handful of tiered challenges, so one I started with was the SQL injection series. This series had 3 total flags you could capture, with each flag having increasing difficulty to acquire. So, my main game plan was to do various tiered challenges to help me build up into harder challenges, and learn a topic in more depth. Other than that, I just went from one challenge to the next, reading forums and blogs on various exploits to help me solve the challenges. 
 
 ## Contributions
-### Did you participate along or with a team?
+### Did you participate alone or with a team?
 
 I initially was on the waitlist for the event as an individual. So, when finally getting off the waitlist I was placed on a random team. This team was meant to have 5 people, but actually ended up only having me and one other teammate for most of the event, with one additional individual who participated on our team for a short period of time. 
 
